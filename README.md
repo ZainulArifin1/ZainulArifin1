@@ -1,23 +1,19 @@
 # Bioinformatician
 
 ### About Me
+
+
+
 * I am a PhD candidate under the INTEGRATE program in [Genomics Data Science](https://genomicsdatascience.ie/).
 * My research interest: <br>
   `cancer study` `bioinformatics` `data visualization` `machine learning` `sleeping`
-* I am currently learning: <br>
-  `nextflow` `single cell analysis` 
+<p align="center">
 
-### Technology Skills
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=007ACC)
-![](https://img.shields.io/badge/IDE-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=F37626)
-![](https://img.shields.io/badge/IDE-Google_Colab-informational?style=flat&logo=GoogleColab&logoColor=white&color=F9AB00)
-![](https://img.shields.io/badge/IDE-R_Studio-informational?style=flat&logo=RStudio&logoColor=white&color=75AADB)
-![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
-![](https://img.shields.io/badge/Language-R-informational?style=flat&logo=R&logoColor=white&color=276DC3)
-![](https://img.shields.io/badge/Language-Bash-informational?style=flat&logo=GNUBash&logoColor=white&color=4EAA25)
-![](https://img.shields.io/badge/EDA-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=150458)
-![](https://img.shields.io/badge/EDA-NumPy-informational?style=flat&logo=Numpy&logoColor=white&color=013243)
-![](https://img.shields.io/badge/EDA-R_ggplot2-informational?style=flat&logo=R&logoColor=white&color=276DC3)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZainulArifin1&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainulArifin1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</p>
+
 
 ### Connect with Me
 <p align="left">
