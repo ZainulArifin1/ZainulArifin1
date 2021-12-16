@@ -1,4 +1,4 @@
-## Halo! 👋
+### Halo! 👋
 
 ### I'm a PhD student studying bioinformatics and researching cancer!
 
