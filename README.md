@@ -1,15 +1,22 @@
-# Bioinformatician
+## Halo! 👋
 
-### About Me
+### I'm a PhD student studying bioinformatics and researching cancer!
+
+##### BIO
+
+- 🎓 I am a PhD candidate under the INTEGRATE program in [Genomics Data Science](https://genomicsdatascience.ie/).
+- 🏢 I am based in [System Biology Ireland](https://www.ucd.ie/sbi/) at the school of medicine [University Colllege Dublin](https://www.ucd.ie/)
+- ⚙ I use daily: `r`, `python`, `bash`, `git`
+- 🌍 I'm active (kinda) within the [#TidyTuesday](https://twitter.com/R4DScommunity) community
+- 🔍 Learning all about `singlecell`, `cancer genomics`, `machine learning`, `data viz`, and `pipeline automation`
+- 😎 Fun fact: I got 4<sup>th</sup> place at a swimming competition once! <sub><sup>(out of 4 contestants)</sup></sub>
 
 
-
-* I am a PhD candidate under the INTEGRATE program in [Genomics Data Science](https://genomicsdatascience.ie/).
-* My research interest: <br>
-  `cancer study` `bioinformatics` `data visualization` `machine learning` `sleeping`
 <p align="center">
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZainulArifin1&show_icons=true&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZainulArifin1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
