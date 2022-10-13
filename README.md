@@ -7,9 +7,6 @@
 - 🎓 I am a PhD candidate under the INTEGRATE program in [Genomics Data Science](https://genomicsdatascience.ie/).
 - 🏢 I am based in [System Biology Ireland](https://www.ucd.ie/sbi/) at the school of medicine [University Colllege Dublin](https://www.ucd.ie/)
 - ⚙ I use daily: `r`, `python`, `bash`, `git`
-- 🌍 I'm active (kinda) within the [#TidyTuesday](https://twitter.com/R4DScommunity) community
-- 🔍 Learning all about `singlecell`, `cancer genomics`, `machine learning`, `data viz`, and `pipeline automation`
-- 😎 Fun fact: I got 4<sup>th</sup> place at a swimming competition once! <sub><sup>(out of 4 contestants)</sup></sub>
 
 
 <p align="center">
